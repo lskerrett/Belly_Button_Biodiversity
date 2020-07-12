@@ -10,4 +10,4 @@ She has a completed panel for demographic information and in order to visualize 
 
 That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, Roza’s volunteers will be able to identify whether that species is found in quantity in their navel.<br/>
 
-The Dashboard can be visualize on this page:  https://lskerrett.github.io/Belly_Button_Diversity/
+The Dashboard can be visualize on this page:  https://lskerrett.github.io/Belly_Button_Biodiversity/
